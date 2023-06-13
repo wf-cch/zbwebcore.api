@@ -1,0 +1,15 @@
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\bin\Release\netcoreapp2.2\appsettings.json
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\bin\Release\netcoreapp2.2\zbwebcore.API.deps.json
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\bin\Release\netcoreapp2.2\zbwebcore.API.runtimeconfig.json
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\bin\Release\netcoreapp2.2\zbwebcore.API.runtimeconfig.dev.json
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\bin\Release\netcoreapp2.2\zbwebcore.API.dll
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\bin\Release\netcoreapp2.2\zbwebcore.API.pdb
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.csprojAssemblyReference.cache
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.csproj.CoreCompileInputs.cache
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.RazorAssemblyInfo.cache
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.RazorAssemblyInfo.cs
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.AssemblyInfoInputs.cache
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.AssemblyInfo.cs
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.RazorTargetAssemblyInfo.cache
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.dll
+E:\dotnetCore项目\zbwebcore\zbwebcore.API\zbwebcore.API\obj\Release\netcoreapp2.2\zbwebcore.API.pdb
